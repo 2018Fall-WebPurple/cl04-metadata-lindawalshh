@@ -1,0 +1,20 @@
+/*
+* Linda Walsh
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: black
+}
+header { background-color: lightyellow; }
+main { background-color: lightgoldenrodyellow;}
+footer { background-color: beige; }
